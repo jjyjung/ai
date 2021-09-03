@@ -15,16 +15,18 @@
 
 #### 9/3(월)
 
-* ___강의목표___
-  - 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
+* 강의목표 - 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
+* [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-#### 9/3(월)
+#### 9/22(수)
 
+* 강의목표 - 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고 Python 코드를 실행해본다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
 
-* [Python basic1, basic2](https://github.com/jjyjung/python)
+#### 9/27(월)
 
-* [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
+* 강의목표 - Python 기초 문법을 학습한다.
+* [Python basic1, basic2](https://github.com/jjyjung/python)
 
 ### 기타 자료
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
