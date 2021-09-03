@@ -11,15 +11,20 @@
 
 ### 강의노트
 
+* [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE32300&p_subjt=IE323&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630693292972)
+
 #### 9/3(월)
 
 * ___강의목표___
   - 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 
+#### 9/3(월)
+
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit)
 
 * [Python basic1, basic2](https://github.com/jjyjung/python)
 
+* [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
 ### 기타 자료
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
