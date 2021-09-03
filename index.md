@@ -1,4 +1,4 @@
-## <center>Artificial Intelligence</center>
+<center>Artificial Intelligence</center>
 
 ### 강의메모 및 질문지
 
