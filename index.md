@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 2021 인공지능론 공유문서
 
-You can use the [editor on GitHub](https://github.com/jjyjung/ai/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Zoom 강의 시에 강의노트 및 질문지로 아래 두 문서를 사용합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[강의운영 Google Doc](https://docs.google.com/document/d/1j9M9fUVV00nIqfAcCgJIv39C9kBlE7_dbp-_Dn9lGAI)
+
+[강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1ycRpgNQ_74vtBtou3lds-UU52QI8AwGvHm45ah58Whc)
 
 ### Markdown
 
