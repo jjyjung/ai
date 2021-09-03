@@ -11,12 +11,19 @@
 
 ### 강의노트
 
+#### 9/1(수)
+
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE32300&p_subjt=IE323&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630693292972)
 
-#### 9/3(월)
+#### 9/6(월)
 
 * 강의목표 - 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
+
+#### 9/8(수)
+#### 9/13(월)
+#### 9/15(수)
+#### 9/20(월)
 
 #### 9/22(수)
 
