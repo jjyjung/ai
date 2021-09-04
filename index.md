@@ -14,7 +14,7 @@
 
 * ___강의목표___ : 강의 계획을 소개하고, 산업현장에서 인공지능 활용에 대하여 논의한다.
 
-* [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE32300&p_subjt=IE323&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630693292972)
+* [2021 인공지능론 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2021&p_term=20&p_teach=027799&p_code=IE32300&p_subjt=IE323&lang=ko&loginYn=N&schedule_cd=hakbu&fake=1630693292972)
 
 
 
@@ -40,7 +40,7 @@
 
 ### 9/13(월) - Python 기초(1)
 
-* __강의목표__ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
+* ___강의목표___ : Python 기본 문법을 살펴보고, 1장의 유사코드를 Colab에서 구현해본다.
 
 * App.1 - 알고리즘 표현 방식 및 Python 자료 구조
 
@@ -52,7 +52,7 @@
 
 ### 9/15(수) - Python 기초(2)
 
-* __강의목표__ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
+* ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
 
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
 
@@ -72,19 +72,19 @@
 
 ### 9/27(월) - 신경망(NN)
 
-* 인공신경망(Artificial Neural Network)의 기본에 대하여 학습한다.
+* ___강의목표___ : 인공신경망(Artificial Neural Network)의 기본에 대하여 학습한다.
 
 
 
 ### 9/29(수) - 역전파이론	
 
-* 신경망(Neural Network)의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 학습한다.
+* ___강의목표___ : 신경망(Neural Network)의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 학습한다.
 
 
 
 ### 10/4(월) - 역전파이론	
 
-* 신경망(Neural Network)의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 학습한다.
+* ___강의목표___ : 신경망(Neural Network)의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 학습한다.
 
 
 
