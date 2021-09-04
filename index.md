@@ -5,7 +5,6 @@
 zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일로 Google 로그인 필요)
 
 * [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1j9M9fUVV00nIqfAcCgJIv39C9kBlE7_dbp-_Dn9lGAI)
-
 * [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1ycRpgNQ_74vtBtou3lds-UU52QI8AwGvHm45ah58Whc)
 
 
