@@ -90,7 +90,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 
 
-### 기타 자료
+### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
 
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python/)
