@@ -66,7 +66,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 
 
-### 9/22(수) - Neural Network(녹화강의)
+### 9/22(수) - Neural Network(녹화)
 
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
 
