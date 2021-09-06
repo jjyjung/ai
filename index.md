@@ -2,7 +2,8 @@
 
 ### 강의메모 및 질문지
 
-zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일로 Google 로그인 필요)
+zoom 강의 시에는 아래 두 문서도 오픈하세요. 
+아래 문서 및 강의자료들은 경희대 이메일로 Google 로그인을 하면 접근이 가능합니다.
 
 * [실시간 강의메모 Google Doc](https://docs.google.com/document/d/1j9M9fUVV00nIqfAcCgJIv39C9kBlE7_dbp-_Dn9lGAI)
 * [강의질문지 Spreadsheet](https://docs.google.com/spreadsheets/d/1ycRpgNQ_74vtBtou3lds-UU52QI8AwGvHm45ah58Whc)
