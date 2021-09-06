@@ -21,6 +21,8 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요. (경희대 이메일
 
 * ___강의목표___ : 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
 
+* [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1EPEzr8EVDPiRBgUJ3Y7gN9u-gXM90Q2N/view?usp=sharing)
+
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
 
