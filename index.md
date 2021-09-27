@@ -73,7 +73,8 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 9/27(월) - Neural Network(녹화)
 
-* ___강의목표___ : 인공신경망(Artificial Neural Network)의 기본에 대하여 학습한다.
+* ___강의목표___ : Perceptron의 기본에 대하여 학습한다.
+* [Perceptron](https://drive.google.com/file/d/1W3GdLLq4HuU9EDLsM9kYwCQLgE2wERVW)
 
 
 
