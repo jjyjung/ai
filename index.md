@@ -48,7 +48,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 10/4(월) - Backpropagation[녹화]
 * ___강의목표___ : 신경망(Neural Network)의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 학습한다.
-* [Backpropagation]()
+* [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
 ### 10/6(수) - Tensorflow, Keras 개요 [zoom]	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
