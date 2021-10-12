@@ -52,8 +52,12 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
-### 10/6(수) - Tensorflow, Keras 개요[zoom]	
+### 10/6(수) - Tensorflow, Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
+
+### 10/13(수) - Deep Neural Network(DNN)
+* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 DNN을 Tensorflow의 Keras로 구현한다.
+* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
