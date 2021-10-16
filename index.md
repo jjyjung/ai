@@ -43,6 +43,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 9/27(월) - Perceptron[녹화]
 * ___강의목표___ : Perceptron의 개념 및 작동원리에 대하여 설명한다.
+* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Perceptron, MLP](https://drive.google.com/file/d/1W3GdLLq4HuU9EDLsM9kYwCQLgE2wERVW)
 
 ### 9/29(수) - Multi-Layer Perceptron
@@ -50,14 +51,26 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 10/4(월) - Backpropagation[녹화]
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
+* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
 ### 10/6(수) - Tensorflow, Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
 
+### 10/11(월) -  Python Pandas[녹화]
+* e-campus.khu.ac.kr에서 확인 바랍니다.
+* ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
+
 ### 10/13(수) - Deep Neural Network(DNN)
-* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 DNN을 Tensorflow의 Keras로 구현한다.
+* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 DNN을 Tensorflow의 Keras로 구현하고 실행한다.
+
+### 10/18(월) - Deep Neural Network(DNN)[녹화]
+* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
+* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
+
+### 10/20(수) - Deep Neural Network(DNN)[Zoom]
+* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
