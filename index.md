@@ -71,6 +71,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 10/20(수) - Deep Neural Network(DNN)[Zoom]
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
+* [Iris DNN 실험 과제)](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
