@@ -36,9 +36,9 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### 9/20(월) - 휴강(추석)
 * 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
 
-### 9/22(수) - Neural Network[녹화]
+### 9/22(수) - ANN[녹화]
 * 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
-* ___강의목표___ : 인공신경망(Neural Network)의 기본개념에 대하여 소개한다.
+* ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념에 대하여 소개한다.
 * [인공신경망 개요](https://drive.google.com/file/d/1L41cuRgBK2jC7N8al-bUg1TeCQpfefSl)
 
 ### 9/27(월) - Perceptron[녹화]
@@ -46,37 +46,43 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Perceptron, MLP](https://drive.google.com/file/d/1W3GdLLq4HuU9EDLsM9kYwCQLgE2wERVW)
 
-### 9/29(수) - Multi-Layer Perceptron
-* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron)에 대하여 소개한다.
+### 9/29(수) - MLP
+* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
 
 ### 10/4(월) - Backpropagation[녹화]
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
-### 10/6(수) - Tensorflow, Keras	
+### 10/6(수) - TF/Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
 
-### 10/11(월) -  Python Pandas[녹화]
+### 10/11(월) -  Pandas[녹화]
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 
-### 10/13(수) - Deep Neural Network(DNN)
-* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 DNN을 Tensorflow의 Keras로 구현하고 실행한다.
+### 10/13(수) - DNN
+* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
 
-### 10/18(월) - Deep Neural Network(DNN)[녹화]
+### 10/18(월) - DNN[녹화]
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
-### 10/20(수) - Deep Neural Network(DNN)[Zoom]
+### 10/20(수) - DNN
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
-### 10/25(수) - Deep Neural Network(DNN)[Zoom]
+### 10/25(월) - DNN
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
+
+### 10/27(수) - 중간고사
+
+### 11/1(월) - DNN[Zoom]
+
+### 11/3(수) - DNN[녹화]
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
