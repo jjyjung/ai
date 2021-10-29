@@ -49,7 +49,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### 9/29(수) - MLP
 * ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
 
-### 10/4(월) - Backpropagation[녹화]
+### 10/4(월) - BP[녹화]
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
