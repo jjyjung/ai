@@ -80,9 +80,11 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 10/27(수) - 중간고사
 
-### 11/1(월) - DNN[Zoom]
+### 11/1(월) - 중간고사 설명
 
-### 11/3(수) - DNN[녹화]
+### 11/3(수) - CNN[녹화]
+* ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
+* [Convolutional Neural Network(CNN)](https://drive.google.com/file/d/1BylS1iLstBW2nWHdKkjd-g5fi4Vnd-Cp)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
