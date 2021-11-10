@@ -86,10 +86,14 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * Convolutional Neural Network(CNN)
 
-### 11/7(수) - CNN2[녹화]
-* ___강의목표___ : 합성곱 신경망(CNN)의 예제인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
+### 11/8(월) - CNN2[녹화]
+* ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 * [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
+### 11/10(수) - CNN in Python[Zoom]
+* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
+* [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
+* [MNIST CNN 실험 과제]()
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
