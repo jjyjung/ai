@@ -98,6 +98,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
 * [Kaggle Learn - Python](https://www.kaggle.com/learn/python/)
+* [Anaconda, Jupyter Notebook, PyCharm 설치](https://drive.google.com/file/d/1xPB3t3aiLcGCXK3UgoCFWQHCBOzEjcUQ/)
 * __Pythonic~__ (파이썬스럽게 코드짜는 법)
   - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
   - [Pythonic은 무엇인가? (PEP 8 정리)](https://codechacha.com/ko/pythonic-and-pep8/)
