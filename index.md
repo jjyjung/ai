@@ -92,7 +92,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 
 ### 11/10(수) - CNN in Python[Zoom]
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
-* [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
+* [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/1nNABZfA7wvwaiJQlwoD9w9Zzowv5h91Q)
 * [MNIST CNN 실험 과제]()
 
 ### Supplementary Materials
