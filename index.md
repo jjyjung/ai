@@ -95,9 +95,13 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/1nNABZfA7wvwaiJQlwoD9w9Zzowv5h91Q)
 * [MNIST CNN 실험 과제]()
 
-### 11/8(월) - CNN2 in Python[Zoom]
+### 11/15(월) - CNN2 in Python[Zoom]
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
+
+### 11/17(수) - RNN[Zoom]
+* ___강의목표___ : RNN에 대하여 살펴본다. 
+* [RNN](https://drive.google.com/file/d/1m-hEirsfwDKgNnJMjdD6l4j6N3BOqAdK/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
