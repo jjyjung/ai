@@ -90,18 +90,21 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 * [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
-### 11/10(수) - CNN in Python[Zoom]
+### 11/10(수) - CNN in Python
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/1nNABZfA7wvwaiJQlwoD9w9Zzowv5h91Q)
 * [MNIST CNN 실험 과제]()
 
-### 11/15(월) - CNN2 in Python[Zoom]
+### 11/15(월) - CNN2 in Python
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 11/17(수) - RNN[Zoom]
-* ___강의목표___ : RNN에 대하여 살펴본다. 
-* [RNN](https://drive.google.com/file/d/1m-hEirsfwDKgNnJMjdD6l4j6N3BOqAdK/)
+### 11/17(수) - RNN
+* ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)에 대하여 살펴본다. 
+
+### 11/22(수) - RNN in Python
+* ___강의목표___ : RNN의 Python 코드를 살펴본다. 
+* [RNN](https://drive.google.com/file/d/1qJEFQjXiCKK4d2D0wiezrmEXna4oGlPH/)
 
 ### Term Project
 * [Project Guide](https://docs.google.com/document/d/1t7dZ2eGNXryqQmYftAKveoJisciKQrgB/)
