@@ -103,11 +103,17 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)에 대하여 살펴본다. 
 
 ### 11/22(수) - RNN in Python
-* ___강의목표___ : RNN의 Python 코드를 살펴본다. 
+* ___강의목표___ : RNN의 Python 예제 코드를 살펴본다. 
 * [RNN](https://drive.google.com/file/d/1qJEFQjXiCKK4d2D0wiezrmEXna4oGlPH/)
 
+### 11/29(월) - RNN in Python
+* ___강의목표___ : RNN의 Python 예제 코드를 살펴본다. 
+
+### 12/1(수) - RNN in Python
+* ___강의목표___ : RNN의 Python 예제 코드를 살펴본다. 
+
 ### Term Project
-* [Project Guide](https://docs.google.com/document/d/1t7dZ2eGNXryqQmYftAKveoJisciKQrgB/)
+* [Project Guide](https://docs.google.com/document/d/1zhJo4ecy1ro1acSDiKsJ1Qnt0fSR2yKd4wadiYjri5U/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
