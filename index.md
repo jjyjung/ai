@@ -29,7 +29,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
-### 9/15(수) - Python Basic(2)
+#### 9/15(수) - Python Basic(2)
 * ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
 
