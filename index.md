@@ -1,6 +1,6 @@
-## Artificial Intelligence
+#### Artificial Intelligence
 
-### 강의메모 및 질문지
+#### 강의메모 및 질문지
 
 zoom 강의 시에는 아래 두 문서도 오픈하세요. 
 
@@ -29,11 +29,11 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
 * 1장의 유사코드를 Colab에서 직접 Python으로 구현해본다.
 
-#### 9/15(수) - Python Basic
+### 9/15(수) - Python Basic
 * ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
 
-#### 9/20(월) - 휴강(추석)
+### 9/20(월) - 휴강(추석)
 * 추석 전날로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
 
 ### 9/22(수) - ANN[녹화]
@@ -64,16 +64,16 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### 10/13(수) - DNN
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
 
-### 10/18(월) - Hyperparameters[녹화]
+### 10/18(월) - BMI[녹화]
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
-#### 10/20(수) - Hyperparameters
+### 10/20(수) - Iris
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
-#### 10/25(월) - Hyperparameters
+### 10/25(월) - SinCos
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
@@ -86,7 +86,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * Convolutional Neural Network(CNN)
 
-#### 11/8(월) - CNN[녹화]
+### 11/8(월) - CNN[녹화]
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 * [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
@@ -118,7 +118,7 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### 12/8(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (뇌파 분석을 위한 CNN, 풍력발전량 예측을 위한 Transformer)
 
-#### 12/14(월) - 응용사례
+### 12/14(월) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (스마트팩토리 고장감지를 위한 DNN/CNN, 물류자동화를 위한 UNet)
 
 ### Term Project
