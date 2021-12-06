@@ -1,4 +1,4 @@
-#### Artificial Intelligence
+## Artificial Intelligence
 
 #### 강의메모 및 질문지
 
@@ -116,10 +116,15 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 * ___강의목표___ : RNN의 Python 예제 코드를 살펴본다. 
 
 ### 12/8(수) - 응용사례
-* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (뇌파 분석을 위한 CNN, 풍력발전량 예측을 위한 Transformer)
+* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (스마트팩토리 고장감지를 위한 DNN/CNN, 풍력발전량 예측을 위한 Transformer)
 
-### 12/14(월) - 응용사례
-* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (스마트팩토리 고장감지를 위한 DNN/CNN, 물류자동화를 위한 UNet)
+### 12/13(월) - 응용사례
+* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (뇌파 분석을 위한 CNN, 물류자동화를 위한 UNet)
+
+### 12/15(월) - 기말고사
+
+### 12/20(월) - 학기과제공유
+* ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
 
 ### Term Project
 * [Project Guide](https://docs.google.com/document/d/1zhJo4ecy1ro1acSDiKsJ1Qnt0fSR2yKd4wadiYjri5U/)
