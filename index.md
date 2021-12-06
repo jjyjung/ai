@@ -109,8 +109,9 @@ zoom 강의 시에는 아래 두 문서도 오픈하세요.
 ### 12/1(수) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
-### 12/6(월) - RNN 보강
-* ___강의목표___ : RNN의 Python 예제 코드를 살펴본다. 
+### 12/6(월) - Optimizers
+* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
 #### 12/8(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다. (스마트팩토리 고장감지를 위한 DNN/CNN, 풍력발전량 예측을 위한 Transformer)
