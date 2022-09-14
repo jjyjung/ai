@@ -41,14 +41,12 @@
 
 ### 10/3(월) - BP
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
-* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
 ### 10/5(수) - TF/Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
 
 ### 10/10(월) -  Pandas
-* e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 
 ### 10/12(수) - DNN
@@ -56,7 +54,6 @@
 
 ### 10/17(월) - BMI
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
-* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
 ### 10/19(수) - Iris
