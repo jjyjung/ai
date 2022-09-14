@@ -11,10 +11,10 @@
 * [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1EPEzr8EVDPiRBgUJ3Y7gN9u-gXM90Q2N/view?usp=sharing)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-#### 9/12(월) - (추석)휴강
+### 9/12(월) - (추석)휴강
 * 추석 연휴로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
 
-#### 보강 - Python 및 IDE 설치
+### 보강 - Python 및 IDE 설치
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 
@@ -28,99 +28,99 @@
 * ___강의목표___ : Python 기본 문법을 살펴보고, 자료구조를 Colab에서 구현해본다.
 * python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
 
-### 9/22(수) - ANN[녹화]
-* 추석 다음 날은 녹화 강의 예정입니다. e-campus.khu.ac.kr에서 확인 바랍니다.
+### 9/21(수) - ANN
 * ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념에 대하여 소개한다.
 * [인공신경망 개요](https://drive.google.com/file/d/1L41cuRgBK2jC7N8al-bUg1TeCQpfefSl)
 
-### 9/27(월) - Perceptron[녹화]
+### 9/26(월) - Perceptron
 * ___강의목표___ : Perceptron의 개념 및 작동원리에 대하여 설명한다.
-* e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Perceptron, MLP](https://drive.google.com/file/d/1W3GdLLq4HuU9EDLsM9kYwCQLgE2wERVW)
 
-### 9/29(수) - MLP
+### 9/28(수) - MLP
 * ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
 
-### 10/4(월) - BP[녹화]
+### 10/3(월) - BP
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
-### 10/6(수) - TF/Keras	
+### 10/5(수) - TF/Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
 
-### 10/11(월) -  Pandas[녹화]
+### 10/10(월) -  Pandas
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 
-### 10/13(수) - DNN
+### 10/12(수) - DNN
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
 
-### 10/18(월) - BMI[녹화]
+### 10/17(월) - BMI
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
-### 10/20(수) - Iris
+### 10/19(수) - Iris
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
-### 10/25(월) - SinCos
+### 10/24(월) - SinCos
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
 
-#### 10/27(수) - 중간고사
+#### 10/26(수) - 중간고사
 
-#### 11/1(월) - 중간고사 설명
+#### 10/31(월) - 중간고사 설명
 
-### 11/3(수) - CNN[녹화]
+### 11/2(수) - CNN
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * Convolutional Neural Network(CNN)
 
-### 11/8(월) - CNN[녹화]
+### 11/7(월) - CNN
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 * [Convolutional Neural Network(CNN) updated](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
-### 11/10(수) - MNIST
+### 11/9(수) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/1nNABZfA7wvwaiJQlwoD9w9Zzowv5h91Q)
 * [MNIST CNN 실험 과제]()
 
-### 11/15(월) - CIFAR10
+### 11/14(월) - CIFAR10
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 11/17(수) - RNN
+### 11/16(수) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)에 대하여 살펴본다. 
 
-### 11/22(수) - IMDB/Embedding
+### 11/21(월) - IMDB/Embedding
+
+### 11/23(수) - IMDB/Embedding
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
 * [RNN](https://drive.google.com/file/d/1qJEFQjXiCKK4d2D0wiezrmEXna4oGlPH/)
 
-### 11/29(월) - LSTM/GRU
+### 11/28(월) - LSTM/GRU
 * ___강의목표___ : RNN의 LSTM/GRU 이론에 대하여 설명한다. 
 
-### 12/1(수) - Text Generation
+### 11/30(수) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
-### 12/6(월) - Optimizers
+### 12/5(월) - Optimizers
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
 * [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
-#### 12/8(수) - 응용사례
+#### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
-* 스마트팩토리 고장감지를 위한 DNN/CNN (IAI Lab. 박사과정 박훈석)
-* 풍력발전량 예측을 위한 Transformer (IAI Lab. 석사과정 김지민)
+* 스마트팩토리 고장감지를 위한 DNN/CNN (IAI Lab.)
+* 풍력발전량 예측을 위한 Transformer (IAI Lab.)
 
-#### 12/13(월) - 응용사례
+#### 12/12(월) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
-* 뇌파 분석을 위한 CNN (IAI Lab. 박사과정 박동현)
-* 물류자동화를 위한 UNet (IAI Lab. 석사과정 주영하)
+* 뇌파 분석을 위한 CNN (IAI Lab.)
+* 물류자동화를 위한 UNet (IAI Lab.)
 
-#### 12/15(수) - 기말고사
+#### 12/14(수) - 기말고사
 
-### 12/20(월) - 학기과제공유
+### 12/19(월) - 학기과제공유
 * ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
 
 ### Term Project
