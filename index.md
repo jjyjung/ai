@@ -8,7 +8,7 @@
 
 ### 9/7(수) - Intro to AI
 * ___강의목표___ : 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
-* [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1EPEzr8EVDPiRBgUJ3Y7gN9u-gXM90Q2N/view?usp=sharing)
+* [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1O2Ptl0_deA9TWHbTNOaN1B5Rbn6Ws8M9/)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
 ### 9/12(월) - (추석)휴강
@@ -30,7 +30,7 @@
 
 ### 9/21(수) - ANN
 * ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념에 대하여 소개한다.
-* [인공신경망 개요](https://drive.google.com/file/d/1L41cuRgBK2jC7N8al-bUg1TeCQpfefSl)
+* [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
 ### 9/26(월) - Perceptron
 * ___강의목표___ : Perceptron의 개념 및 작동원리에 대하여 설명한다.
