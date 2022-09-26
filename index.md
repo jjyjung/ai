@@ -65,9 +65,9 @@
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
 
-#### 10/26(수) - 중간고사
+### 10/26(수) - 중간고사
 
-#### 10/31(월) - 중간고사 설명
+### 10/31(월) - 중간고사 설명
 
 ### 11/2(수) - CNN
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
