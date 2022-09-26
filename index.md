@@ -15,35 +15,33 @@
 ### 9/12(월) - (추석)휴강
 * 추석 연휴로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
 
-### 보강 - Python 및 IDE 설치
+### 보강 - Python 및 IDE
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/14(수) - Python Basic(1)
+### 9/14(수) - Python Basic
 * ___강의목표___ : Python 기본 문법을 살펴보고, 기초문법을 Colab에서 구현해본다.
-* python_basic1.ipynb : 기본 문법(1)을 함께 학습한다.
-* [Python basic1](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
+* python_basic1, python_basic2 : 기본 문법을 함께 학습한다.
+* [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 
-### 9/19(월) - Python Basic(2)
-* ___강의목표___ : Python 기본 문법을 살펴보고, 기초문법을 Colab에서 구현해본다.
-* python_basic2.ipynb : 기초 문법(2)를 함께 학습한다.
-* [Python basic2](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
-
-### 9/21(수) - ANN
+### 9/19(월) - Neural Network
 * ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념에 대하여 소개한다.
 * [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
-### 9/26(월) - Perceptron
+### 9/21(수) - MLP
+* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
+
+### 9/26(월) - Delta Rule
 * ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
 * [Perceptron, Delta Rule](https://drive.google.com/file/d/1Zof9r0luQxBMoGlMVJGlWMqUAvIN0bH0/)
 
-### 9/28(수) - MLP
-* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
+### 9/28(수) - BP
+* ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
+* [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
 ### 10/3(월) - BP
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
-* [Backpropagation](https://drive.google.com/file/d/1vxZiUsAZNAQpLzAjzq8FjYQgmEhoaPo8)
 
 ### 10/5(수) - TF/Keras	
 * ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
