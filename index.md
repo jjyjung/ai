@@ -34,8 +34,8 @@
 * [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
 ### 9/26(월) - Perceptron
-* ___강의목표___ : Perceptron의 개념 및 작동원리에 대하여 설명한다.
-* [Perceptron, MLP](https://drive.google.com/file/d/1W3GdLLq4HuU9EDLsM9kYwCQLgE2wERVW)
+* ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
+* [Perceptron, Delta Rule](https://drive.google.com/file/d/1Zof9r0luQxBMoGlMVJGlWMqUAvIN0bH0/)
 
 ### 9/28(수) - MLP
 * ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
