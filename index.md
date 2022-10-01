@@ -36,18 +36,19 @@
 * ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
 * [Perceptron, Delta Rule](https://drive.google.com/file/d/1Zof9r0luQxBMoGlMVJGlWMqUAvIN0bH0/)
 
-### 9/28(수) - BP
+### 9/28(수) - BP(1)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
-### 10/3(월) - TF/Keras [녹화(개천절)]
-* ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
+### 10/3(월) - Pandas [녹화(개천절)]
+* e-campus.khu.ac.kr에서 확인 바랍니다.
+* ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 
 ### 10/5(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
-### 10/10(월) -  Pandas
-* ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
+### 10/10(월) - TF/Keras [녹화(한글날)]
+* ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
 
 ### 10/12(수) - DNN
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
