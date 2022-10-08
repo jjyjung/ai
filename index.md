@@ -52,14 +52,17 @@
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
 ### 10/10(월) - TF/Keras [녹화(한글날)]
-* ___강의목표___ : 딥러닝(Deep Learning) 라이브러리 중 하나인 Tensorflow와 Keras에 대하여 소개한다.
-
-### 10/12(수) - DNN
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
+* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
+* jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
+* [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/keras_DNN_BMI.ipynb)
+* [bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv)
+
+### 10/12(수) - BMI
+* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 
 ### 10/17(월) - BMI
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
-* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1CgzIszKJcJMUf99EU4JcbjZNkJjYb5XA/view?usp=sharing)
 
 ### 10/19(수) - Iris
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
