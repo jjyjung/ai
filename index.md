@@ -70,6 +70,7 @@
 
 ### 10/24(월) - SinCos
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
+* [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
 
