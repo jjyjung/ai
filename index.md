@@ -60,21 +60,21 @@
 ### 10/12(수) - BMI
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 
-### 10/17(월) - Iris
-* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
+### 10/17(월) - Iris 과제
+* ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/18(화)까지 e-campus로 제출하세요.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
 ### 10/19(수) - SinCos
-* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
+* ___강의목표___ : Tensorflow의 Keras으로 SinCos 함수의 Regression 문제 구현을 설명한다.
 * [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 * [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
 
-### 10/24(월) - 중간고사 
+### 10/24(월) - 중간고사 준비
+ 
+### 10/26(수) - 중간고사 설명
 * 시간: 15:00~16:00 (강의시간)
 * 장소: 공대 148호(강의실)
-* 
-### 10/26(수) - 중간고사 설명
 
 ### 10/31(월) - CNN
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
