@@ -53,7 +53,7 @@
 
 ### 10/10(월) - TF/Keras [녹화(한글날)]
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
-* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/)
+* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/) **<= 업데이트 되었음**
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
 * [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
 
