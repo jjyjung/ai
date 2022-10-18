@@ -65,7 +65,7 @@
 * ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/18(화)까지 e-campus로 제출하세요.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
-### 10/19(수) - SinCos
+### 10/19(수) - SinCos [녹화(출장)]
 * ___강의목표___ : Tensorflow의 Keras으로 SinCos 함수의 Regression 문제 구현을 설명한다.
 * [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
