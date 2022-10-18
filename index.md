@@ -69,7 +69,6 @@
 * ___강의목표___ : Tensorflow의 Keras으로 SinCos 함수의 Regression 문제 구현을 설명한다.
 * [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
-* [Github의 Classification 및 Regression 예제파일 review](https://github.com/jjyjung/ai/)
 
 ### 10/24(월) - 중간고사 준비
 * [2021년 중간고사(정답포함)](https://drive.google.com/file/d/1pGgRJHGoY0sPTA0zCMWmRIOdFSojfBK1/) - 객관식 문제는 밑줄친 항목이 정답임.
