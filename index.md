@@ -13,10 +13,7 @@
 * [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1O2Ptl0_deA9TWHbTNOaN1B5Rbn6Ws8M9/)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-### 9/12(월) - (추석)휴강
-* 추석 연휴로 강의는 쉽니다. 추석명절 즐겁게 보내세요. 
-
-### 보강 - Python 및 IDE
+### 9/12(월) - Python 및 IDE [녹화(추석)]
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
