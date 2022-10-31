@@ -27,11 +27,11 @@
 * [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
 
 ### 9/19(월) - Neural Network
-* ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념에 대하여 소개한다.
+* ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념을 이해한다.
 * [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
 ### 9/21(수) - MLP
-* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 소개한다.
+* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 설명한다.
 
 ### 9/26(월) - Delta Rule
 * ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
@@ -53,7 +53,7 @@
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
 ### 10/10(월) - TF/Keras [녹화(한글날)]
-* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
+* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/) **<= 업데이트 되었음**
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
 * [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
@@ -65,7 +65,7 @@
 * ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/18(화)까지 e-campus로 제출하세요.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
-### 10/19(수) - SinCos [녹화(출장)]
+### 10/19(수) - SinCos [녹화]
 * ___강의목표___ : Tensorflow의 Keras으로 SinCos 함수의 Regression 문제 구현을 설명한다.
 * [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
@@ -75,7 +75,7 @@
 * [2019년 중간고사(정답불포함)](https://drive.google.com/file/d/1grfgPWR8uOR_k8HLdeN6m37h2UsNnv_s/)
 * [2018년 기말고사(정답불포함)](https://drive.google.com/file/d/1jk1Cn5KCWzgKiwbjhVEQ-aM9BRBMm_sq/) - 2018년에는 기말고사 범위가 인공신경망이었음. 
  
-### 10/26(수) - 중간고사 설명
+### 10/26(수) - 중간고사
 * 시간: 15:00~16:00 (강의시간)
 * 장소: 공대 148호(강의실)
 
@@ -83,16 +83,16 @@
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * [Convolutional Neural Network (CNN)](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
-### 11/2(수) - CNN
-* ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
-
-### 11/7(월) - CNN
+### 11/2(수) - CNN [녹화]
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 
-### 11/9(수) - MNIST
+### 11/7(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/1nNABZfA7wvwaiJQlwoD9w9Zzowv5h91Q)
 * [MNIST CNN 실험 과제]()
+
+### 11/9(수) - MNIST
+* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 
 ### 11/14(월) - CIFAR10
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
@@ -102,10 +102,11 @@
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)에 대하여 살펴본다. 
 
 ### 11/21(월) - IMDB/Embedding
+* ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
+* [RNN](https://drive.google.com/file/d/1qJEFQjXiCKK4d2D0wiezrmEXna4oGlPH/)
 
 ### 11/23(수) - IMDB/Embedding
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
-* [RNN](https://drive.google.com/file/d/1qJEFQjXiCKK4d2D0wiezrmEXna4oGlPH/)
 
 ### 11/28(월) - LSTM/GRU
 * ___강의목표___ : RNN의 LSTM/GRU 이론에 대하여 설명한다. 
