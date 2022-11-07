@@ -85,8 +85,8 @@
 
 ### 11/7(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
-* [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/13ueZEglNMxnzkeVqlte9io4ghEdGlxN5/)
-* [MNIST CNN 실험 과제]()
+* [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
+* [MNIST CNN 실험 과제] 
 
 ### 11/9(수) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
