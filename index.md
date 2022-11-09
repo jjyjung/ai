@@ -105,15 +105,14 @@
 ### 11/23(수) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
-### 11/28(월) - Text Generation
-* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
+### 11/28(월) - 기말고사 (예정)
 
-### 11/30(수) - Optimizers
-* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
-* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
+### 11/30(수) - Text Generation
+* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
 ### 12/5(월) - Optimizers
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
 ### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
@@ -125,7 +124,8 @@
 * 뇌파 분석을 위한 CNN (IAI Lab.)
 * 물류자동화를 위한 UNet (IAI Lab.)
 
-### 12/14(수) - 기말고사
+### 12/14(수) - 학기과제공유
+* ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
 
 ### 12/19(월) - 학기과제공유
 * ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
