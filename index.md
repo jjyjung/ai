@@ -87,7 +87,7 @@
 
 ### 11/9(수) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
-* [RNN](https://drive.google.com/file/d/17m4a-9cyqHz2GjF1e5Kw95UY2VLZSTgG/)
+* [RNN](https://drive.google.com/file/d/1ANJ4DigT1IVWU8_8wJPUg1k0Ijnj-Fs9/)
 
 ### 11/14(월) - CIFAR10 [녹화]
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
