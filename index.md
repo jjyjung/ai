@@ -68,9 +68,6 @@
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 
 ### 10/24(월) - 중간고사 준비
-* [2021년 중간고사(정답포함)](https://drive.google.com/file/d/1pGgRJHGoY0sPTA0zCMWmRIOdFSojfBK1/) - 객관식 문제는 밑줄친 항목이 정답임.
-* [2019년 중간고사(정답불포함)](https://drive.google.com/file/d/1grfgPWR8uOR_k8HLdeN6m37h2UsNnv_s/)
-* [2018년 기말고사(정답불포함)](https://drive.google.com/file/d/1jk1Cn5KCWzgKiwbjhVEQ-aM9BRBMm_sq/) - 2018년에는 기말고사 범위가 인공신경망이었음. 
  
 ### 10/26(수) - 중간고사
 * 시간: 15:00~16:00 (강의시간)
