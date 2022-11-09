@@ -86,34 +86,34 @@
 ### 11/7(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
-* [MNIST CNN 실험 과제] 
+* [MNIST CNN 실습 과제] : 11/15(화)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb)를 e-campus에 제출.
 
-### 11/9(수) - MNIST
-* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
-
-### 11/16(수) - RNN
-* ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)에 대하여 살펴본다. 
+### 11/9(수) - RNN
+* ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
 * [RNN](https://drive.google.com/file/d/17m4a-9cyqHz2GjF1e5Kw95UY2VLZSTgG/)
 
 ### 11/14(월) - CIFAR10
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 11/21(월) - IMDB/Embedding
+### 11/16(수) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
 
-### 11/23(수) - IMDB/Embedding
+### 11/21(월) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
 
-### 11/28(월) - LSTM/GRU
-* ___강의목표___ : RNN의 LSTM/GRU 이론에 대하여 설명한다. 
-
-### 11/30(수) - Text Generation
+### 11/23(수) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
+
+### 11/28(월) - Text Generation
+* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
+
+### 11/30(수) - Optimizers
+* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
 ### 12/5(월) - Optimizers
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
-* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
 ### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
