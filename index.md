@@ -91,10 +91,13 @@
 
 ### 11/14(월) - CIFAR10 [녹화]
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
+* [tf_keras_CNN_CIFAR10.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CIFAR10.ipynb)
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
 ### 11/16(수) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
+* [IMDM LSTM (slide)](https://drive.google.com/file/d/1-s1_ORYyQV7_r0qBA8cFQ1P1pRs7a-Rc/)
+* [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
 
 ### 11/21(월) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
