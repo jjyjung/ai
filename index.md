@@ -130,8 +130,8 @@
 ### 12/19(월) - 학기과제공유
 * ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
 
-### Term Project
-* [Project Guide](https://docs.google.com/document/d/1zhJo4ecy1ro1acSDiKsJ1Qnt0fSR2yKd4wadiYjri5U/)
+### 2022 Term Project
+* [Project Guide](https://docs.google.com/document/d/1gPghRTUqxbwiV5u-Skrr6DN6PWbxGqyF/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
