@@ -99,20 +99,21 @@
 * [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
 
-### 11/21(월) - IMDB
-* ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
+### 11/21(월) - Optimizers
+* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
 ### 11/23(수) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
 ### 11/28(월) - 기말고사 (예정)
 
-### 11/30(수) - Text Generation
-* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
+### 11/30(수) - CUB200
+* ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
+* [tf_keras_CNN_CU200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CU200.ipynb)
+* [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 12/5(월) - Optimizers
-* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
-* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
+### 12/5(월) - 실습예제
 
 ### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
