@@ -96,7 +96,7 @@
 
 ### 11/16(수) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
-* [IMDM LSTM (slide)](https://drive.google.com/file/d/1-s1_ORYyQV7_r0qBA8cFQ1P1pRs7a-Rc/)
+* [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
 
 ### 11/21(월) - IMDB
