@@ -132,7 +132,7 @@
 * ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
 
 ### 2022 Term Project
-* [Project Guide](https://docs.google.com/document/d/1gPghRTUqxbwiV5u-Skrr6DN6PWbxGqyF/)
+* [Project Guide](https://docs.google.com/document/d/1HEfPfsaChpOyzqvS53BGzZWcfyErgCZC/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
