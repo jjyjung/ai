@@ -107,6 +107,7 @@
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
 ### 11/28(월) - 기말고사 (예정)
+* [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
 
 ### 11/30(수) - CUB200
 * ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
