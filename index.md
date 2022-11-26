@@ -104,8 +104,8 @@
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
 * [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
-### 11/23(수) - Text Generation
-* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
+### 11/23(수) - Optimizers
+* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
 
 ### 11/28(월) - 기말고사 (예정)
 * [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
@@ -115,7 +115,8 @@
 * [tf_keras_CNN_CU200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CU200.ipynb)
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 12/5(월) - 실습예제
+### 12/5(월) - Text Generation
+* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 
 ### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
