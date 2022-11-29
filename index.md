@@ -112,7 +112,7 @@
 
 ### 11/30(수) - CUB200
 * ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
-* [tf_keras_CNN_CU200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CU200.ipynb)
+* [tf_keras_CNN_CUB200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CUB200.ipynb)
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
 ### 12/5(월) - Text Generation
