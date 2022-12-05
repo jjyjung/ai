@@ -122,7 +122,8 @@
 
 ### 12/7(수) - 산업인공지능
 * ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 소개한다.(중기부 KAMP)
-* 회전기기 이상진단 AI 기법(DNN, CNN, RNN)
+* [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
+* [torch_rotor_dignostics.ipynb]()
 
 ### 12/12(월) - 산업인공지능
 * ___강의목표___ : 산업경영공학에서 딥러닝 프로젝트를 소개한다.(KHU IAI Lab.)
