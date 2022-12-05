@@ -14,7 +14,7 @@
 * [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1O2Ptl0_deA9TWHbTNOaN1B5Rbn6Ws8M9/)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-### 9/12(월) - Python 및 IDE [녹화(추석)]
+### 9/12(월) -Colab [추석]
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
@@ -39,7 +39,7 @@
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
-### 10/3(월) - Pandas [녹화(개천절)]
+### 10/3(월) - Pandas [개천절]
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 * Machine Learning, Deep Learning에서 학습할 데이터 파일을 읽어들일 때, 주로 pandas의 read_csv를 사용하여 pandas DataFrame으로 읽어들입니다. 예. df = pd.read_csv("bmi.csv")
@@ -50,7 +50,7 @@
 ### 10/5(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
-### 10/10(월) - TF/Keras [녹화(한글날)]
+### 10/10(월) - TF/Keras [한글날]
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/) **<= 업데이트 되었음**
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
