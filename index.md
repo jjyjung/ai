@@ -120,15 +120,14 @@
 * [tf_keras_RNN_Gildong.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Gildong.ipynb)
 * [Gildong.txt](https://github.com/jjyjung/ai/blob/gh-pages/Gildong.txt)
 
-### 12/7(수) - 응용사례
-* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
-* 스마트팩토리 고장감지를 위한 DNN/CNN (IAI Lab.)
-* 풍력발전량 예측을 위한 Transformer (IAI Lab.)
+### 12/7(수) - 산업인공지능
+* ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 소개한다.(중기부 KAMP)
+* 회전기기 이상진단 AI 기법(DNN, CNN, RNN)
 
-### 12/12(월) - 응용사례
-* ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
-* 뇌파 분석을 위한 CNN (IAI Lab.)
-* 물류자동화를 위한 UNet (IAI Lab.)
+### 12/12(월) - 산업인공지능
+* ___강의목표___ : 산업경영공학에서 딥러닝 프로젝트를 소개한다.(KHU IAI Lab.)
+* 뇌파 분석을 위한 3D-CNN
+* 물류자동화를 위한 DenseUNet
 
 ### 12/14(수) - 학기과제공유
 * ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
