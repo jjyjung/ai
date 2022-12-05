@@ -118,6 +118,7 @@
 ### 12/5(월) - Text Generation
 * ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
 * [tf_keras_RNN_Gildong.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Gildong.ipynb)
+* [Gildong.txt](https://github.com/jjyjung/ai/blob/gh-pages/Gildong.txt)
 
 ### 12/7(수) - 응용사례
 * ___강의목표___ : 산업경영공학에서 딥러닝 응용사례를 소개한다.
