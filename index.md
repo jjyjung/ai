@@ -3,7 +3,7 @@
 모든 문서는 경희대 이메일로 Google 로그인 해야 접근 가능합니다.
 모든 문서는 강의시간 전에 업데이트될 수 있습니다.
 * [Q&A 사이트 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1Ly4hHVyEs_Kar8myGGaTi9v4_Sp8hnrBeISMbo2uHFQ/) <- Q&A 기한 만료(11/21까지) 
-* [프로젝트 제목 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1fcJ3g4Dp3uG9l7F_CIVJfv0w_5PhaNtkQj4imXMcoXU/)
+* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1fcJ3g4Dp3uG9l7F_CIVJfv0w_5PhaNtkQj4imXMcoXU/)
 
 ### 9/5(월) - Syllabus
 * ___강의목표___ : 강의 계획을 소개하고 산업에서 인공지능 활용에 대하여 논의한다.
@@ -138,6 +138,7 @@
 
 ### 2022 Term Project
 * [Project Guide](https://docs.google.com/document/d/1HEfPfsaChpOyzqvS53BGzZWcfyErgCZC/)
+* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1fcJ3g4Dp3uG9l7F_CIVJfv0w_5PhaNtkQj4imXMcoXU/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
