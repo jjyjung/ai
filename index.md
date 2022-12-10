@@ -125,13 +125,13 @@
 * [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
 * [torch_rotor_dignostics.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/torch_rotor_dignostics.ipynb)
 
-### 12/12(월) - 학기과제발표(필수참석:강민영~이두진)=>결석시 과제점수 감점
-* ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
+### 12/12(월) - 학기과제 시청 및 질의응답(필수참석:강민영~이두진) => 결석시 과제점수 감점
+* ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
 
-### 12/14(수) - 학기과제공유(필수참석:이명현~홍용석)=>결석시 과제점수 감점
-* ___강의목표___ : 각자 수행한 Term Project 결과를 YouTube 영상으로 공유합니다.
-
-### 12/19(월) - 산업인공지능[녹화]=>동영상 미수강시 출석점수 감점(5회 면제에 해당안됨)
+### 12/14(수) - 학기과제 시청 및 질의응답(필수참석:이명현~홍용석) => 결석시 과제점수 감점
+* ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
+* 
+### 12/19(월) - 산업인공지능[녹화] => 동영상 미수강시 출석점수 감점(5회 면제에 해당안됨)
 * ___강의목표___ : 산업경영공학에서 딥러닝 프로젝트를 소개한다.(KHU IAI Lab.)
 * 뇌파 분석을 위한 3D-CNN
 * 물류자동화를 위한 DenseUNet
