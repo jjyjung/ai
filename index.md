@@ -125,7 +125,7 @@
 * [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
 * [torch_rotor_dignostics.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/torch_rotor_dignostics.ipynb)
 
-### 12/11(월) - 산업인공지능[녹화]
+### 12/11(월) - 산업인공지능
 * ___강의목표___ : 산업경영공학에서 딥러닝 프로젝트를 소개한다.(KHU IAI Lab.)
 * 뇌파 분석을 위한 3D-CNN
 * 물류자동화를 위한 DenseUNet
