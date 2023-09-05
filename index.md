@@ -7,7 +7,8 @@
 
 ### 9/4(월) - Syllabus
 * ___강의목표___ : 강의 계획을 소개하고 산업에서 인공지능 활용에 대하여 논의한다.
-* [2023 인공지능론 강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2023&p_term=20&p_teach=027799&p_code=IE32300&loginYn=N)
+* [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2023&p_term=20&p_teach=027799&p_code=IE32300&loginYn=N)
+* [강의메모](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
 
 ### 9/6(수) - Intro to AI
 * ___강의목표___ : 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
