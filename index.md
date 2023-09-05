@@ -14,12 +14,12 @@
 * [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1O2Ptl0_deA9TWHbTNOaN1B5Rbn6Ws8M9/)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-### 9/11(월) -Colab [추석/녹화]
+### 9/11(월) -Colab
 * ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
 * [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/13(수) - Python Basic
+### 9/13(수) - Python Basic[녹화]
 * ___강의목표___ : Python 기본 문법을 살펴보고, 기초문법을 Colab에서 구현해본다.
 * python_basic1, python_basic2 : 기본 문법을 함께 학습한다.
 * [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
@@ -39,7 +39,7 @@
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
-### 10/2(월) - Pandas [개천절/녹화]
+### 10/2(월) - Pandas[휴일/녹화]
 * e-campus.khu.ac.kr에서 확인 바랍니다.
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 * Machine Learning, Deep Learning에서 학습할 데이터 파일을 읽어들일 때, 주로 pandas의 read_csv를 사용하여 pandas DataFrame으로 읽어들입니다. 예. df = pd.read_csv("bmi.csv")
@@ -50,7 +50,7 @@
 ### 10/4(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
-### 10/9(월) - TF/Keras [한글날/녹화]
+### 10/9(월) - TF/Keras[한글날/녹화]
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/)
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
@@ -84,7 +84,7 @@
 ### 11/6(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
-* [MNIST CNN 실습 과제] : 11/15(화)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb)를 e-campus에 제출.
+* [MNIST CNN 실습 과제] : 11/14(화)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb)를 e-campus에 제출.
 
 ### 11/8(수) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
@@ -130,11 +130,7 @@
 * 뇌파 분석을 위한 3D-CNN
 * 물류자동화를 위한 DenseUNet
 
-### 12/13(수) - 학기과제 시청 및 질의응답
-* ___출석___ : 필수참석자는 결석시 과제점수 감점(참석 및 질의응답 대응 필요). 다른 학생들은 자율 출석.
-* ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
-
-### 12/18(월) - 학기과제 시청 및 질의응답
+### 12/13(수) - 과제시청 및 질의응답
 * ___출석___ : 필수참석자는 결석시 과제점수 감점(참석 및 질의응답 대응 필요). 다른 학생들은 자율 출석.
 * ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
 
