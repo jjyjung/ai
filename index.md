@@ -6,7 +6,9 @@
 * [Q&A 사이트 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/) 
 
 ### 2023 경기도자율주행센터 데이터활용 경진대회
-* [포스터.jpg](https://drive.google.com/file/d/1t2NfDOwhp93c-r5cZ_RO3GR6lkpRCYlg/)
+* Term Project 대체 가능
+* 접수기간: 9월11일~22일 (접수방법은 포스터 참고. 데이터셋 파일로 제공)
+* [경진대회 포스터.jpg](https://drive.google.com/file/d/1t2NfDOwhp93c-r5cZ_RO3GR6lkpRCYlg/)
 * [데이터 상세 설명서.hwp](https://drive.google.com/file/d/1cxdAIsQkzHRJlHguoLmGPymH2wldC7BW/)
 
 ### 9/4(월) - Syllabus
