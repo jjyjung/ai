@@ -5,6 +5,10 @@
 모든 문서는 강의시간 전에 업데이트될 수 있습니다.
 * [Q&A 사이트 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/) 
 
+### 2023 경기도자율주행센터 데이터활용 경진대회
+* [포스터.jpg](https://drive.google.com/file/d/1t2NfDOwhp93c-r5cZ_RO3GR6lkpRCYlg/)
+* [데이터 상세 설명서.hwp](https://drive.google.com/file/d/1cxdAIsQkzHRJlHguoLmGPymH2wldC7BW/)
+
 ### 9/4(월) - Syllabus
 * ___강의목표___ : 강의 계획을 소개하고 산업에서 인공지능 활용에 대하여 논의한다.
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2023&p_term=20&p_teach=027799&p_code=IE32300&loginYn=N)
@@ -136,7 +140,7 @@
 * ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
 
 ### 2023 Term Project
-* [Project Guide](https://docs.google.com/document/d/1HEfPfsaChpOyzqvS53BGzZWcfyErgCZC/)
+* [Project Guide]()
 * [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1fcJ3g4Dp3uG9l7F_CIVJfv0w_5PhaNtkQj4imXMcoXU/)
 
 ### Supplementary Materials
