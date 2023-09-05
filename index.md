@@ -11,7 +11,7 @@
 
 ### 9/6(수) - Intro to AI
 * ___강의목표___ : 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
-* [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1O2Ptl0_deA9TWHbTNOaN1B5Rbn6Ws8M9/)
+* [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1wjVzUcnLiscaNf1Jy6iqoZYYnw0dULA2/view?usp=drive_link)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
 ### 9/11(월) -Colab
@@ -50,7 +50,7 @@
 ### 10/4(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
-### 10/9(월) - TF/Keras[한글날/녹화]
+### 10/9(월) - DNN[한글날/녹화]
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/)
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
