@@ -65,7 +65,7 @@
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 
 ### 10/16(월) - Iris 과제
-* ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/18(화)까지 e-campus로 제출하세요.
+* ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/22(일)까지 e-campus로 제출하세요.
 * [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
 
 ### 10/18(수) - SinCos [녹화]
@@ -75,7 +75,7 @@
 
 ### 10/23(월) - 중간고사 준비
  
-### 10/25(수) - 중간고사
+### 10/25(수) - 중간고사 [날짜 변동 가능]
 * 시간: 15:00~16:00 (강의시간)
 * 장소: 공대 148호(강의실)
 
@@ -112,7 +112,7 @@
 ### 11/22(수) - Optimizers
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
 
-### 11/27(월) - 기말고사
+### 11/27(월) - 기말고사 [날짜 변동 가능]
 * [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
 
 ### 11/29(수) - CUB200
