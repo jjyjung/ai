@@ -21,19 +21,18 @@
 * [인공지능 소개 및 산업 응용](https://drive.google.com/file/d/1wjVzUcnLiscaNf1Jy6iqoZYYnw0dULA2/view?usp=drive_link)
 * [TED recommends Artificial Intelligence](https://cooltool.com/blog/7-best-ted-videos-about-artificial-intelligence)
 
-### 9/11(월) -Colab
-* ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
-* [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
-* [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
+### 9/11(월) - Neural Network
+* ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념을 이해한다.
+* [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
 ### 9/13(수) - Python Basic[녹화]
-* ___강의목표___ : Python 기본 문법을 살펴보고, 기초문법을 Colab에서 구현해본다.
-* python_basic1, python_basic2 : 기본 문법을 함께 학습한다.
-* [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드해본다.
+* ___강의목표___ : 클라우드 코딩 환경인 Google Colab을 사용하는 방법을 배우고, Colab에서 Python 기초코드를 학습한다.
+* [Google Colab 사용법](https://docs.google.com/document/d/1dNI-H5wLt23CE1kA0C7XHus5Z04WcYLFdqRtiKh4sfQ/edit) : 설치 및 사용법을 익힌다.
+* [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드하여 기본 문법을 학습한다.
+* [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
 ### 9/18(월) - Neural Network
 * ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념을 이해한다.
-* [인공신경망 개요](https://drive.google.com/file/d/1Um8bsUnQTmMkOXgkPtIpi_hEuXUVyAZf/)
 
 ### 9/20(수) - MLP
 * ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 설명한다.
