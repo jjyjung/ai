@@ -43,13 +43,17 @@
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
 ### 9/27(수) - Pandas[녹화]
-
-### 10/2(월) - Pandas[녹화]
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 * ML, DL에서 데이터 파일을 읽어들일 때, 주로 pandas의 read_csv를 사용하여 pandas DataFrame으로 읽어들입니다. 예. df = pd.read_csv("bmi.csv")
 * 이후에 필요한 컬럼(변수)을 추출하여 X(입력변수)와 Y(출력변수)로 선정하거나 Training dataset와 Test dataset으로 separate할 때, pandas의 DataFrame을 다룹니다.
 * 본 녹화강의를 통하여 Pandas DataFrame에 대하여 이해할 수 있습니다. 
 * 별도의 강의자료는 없으며, w3schools 사이트를 참고하세요. [w3schools.com - Python](https://www.w3schools.com/python/)
+
+### 10/2(월) - DNN[녹화]
+* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
+* [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/)
+* jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
+* [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
 
 ### 10/4(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
