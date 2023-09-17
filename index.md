@@ -53,7 +53,7 @@
 * ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
 * [Deep Neural Network(DNN)](https://drive.google.com/file/d/1H8jY7jB1rEprMtR1Heocr8GVVeaQHdqo/)
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
-* [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
+* [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
 
 ### 10/4(수) - BP(2)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
