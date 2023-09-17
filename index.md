@@ -31,21 +31,20 @@
 * [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드하여 기본 문법을 학습한다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/18(월) - Neural Network
-* ___강의목표___ : 인공신경망(Artificial Neural Network: ANN)의 기본개념을 이해한다.
-
-### 9/20(수) - MLP
-* ___강의목표___ : 신경망의 기본 네트워크 구조인 다층퍼셉트론(Multi-Layer Perceptron: MLP)에 대하여 설명한다.
-
-### 9/25(월) - Delta Rule
+### 9/18(월) - Perceptron
 * ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
 * [Perceptron, Delta Rule](https://drive.google.com/file/d/1Zof9r0luQxBMoGlMVJGlWMqUAvIN0bH0/)
 
-### 9/27(수) - BP(1)
+### 9/20(수) - Delta Rule
+* ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
+
+### 9/25(월) - BP(1)
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
 
-### 10/2(월) - Pandas[휴일/녹화]
+### 9/27(수) - Pandas[녹화]
+
+### 10/2(월) - Pandas[녹화]
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
 * ML, DL에서 데이터 파일을 읽어들일 때, 주로 pandas의 read_csv를 사용하여 pandas DataFrame으로 읽어들입니다. 예. df = pd.read_csv("bmi.csv")
 * 이후에 필요한 컬럼(변수)을 추출하여 X(입력변수)와 Y(출력변수)로 선정하거나 Training dataset와 Test dataset으로 separate할 때, pandas의 DataFrame을 다룹니다.
