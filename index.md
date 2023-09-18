@@ -32,16 +32,16 @@
 * [Python basic1.ipynb, Python basic2.ipynb](https://github.com/jjyjung/python) : GitHub의 예제 코드를 업로드하여 기본 문법을 학습한다.
 * [w3schools.com - Python](https://www.w3schools.com/python/) : Python 기초 문법을 살펴보고, 각자 모르는 부분들은 추후 자습한다.
 
-### 9/18(월) - Perceptron
+### 9/18(월) - Perceptron and Delta Rule
 * ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
 * [Perceptron, Delta Rule](https://drive.google.com/file/d/1Zof9r0luQxBMoGlMVJGlWMqUAvIN0bH0/)
 
-### 9/20(수) - Delta Rule
-* ___강의목표___ : Perceptron의 유형 및 Delta Rule의 원리에 대하여 설명한다.
-
-### 9/25(월) - BP(1)
+### 9/20(수) - BP
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 * [Backpropagation](https://drive.google.com/file/d/1-lbvgb9FlcQtChoRFQYKTYVaoWtxRlCt/)
+
+### 9/25(월) - BP
+* ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
 ### 9/27(수) - Pandas[녹화]
 * ___강의목표___ : Deep Learning시에 많이 활용되는 Python Pandas에 대하여 설명한다.
@@ -56,7 +56,7 @@
 * jjyjung의 GitHub에 있는 keras_DNN_BMI.ipyn을 Colab이나 Jupyter Notebook에서 실행시켜보세요. bmi.csv도 다운로드 및 적절한 위치에 업로드가 필요합니다.
 * [keras_DNN_BMI.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_BMI.ipynb)([bmi.csv](https://github.com/jjyjung/ai/blob/gh-pages/bmi.csv))
 
-### 10/4(수) - BP(2)
+### 10/4(수) - BP
 * ___강의목표___ : 신경망의 학습에 사용되는 역전파(Backpropagation) 이론에 대하여 설명한다.
 
 ### 10/9(월) - DNN[한글날/녹화]
