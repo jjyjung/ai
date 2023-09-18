@@ -10,6 +10,7 @@
 * 접수기간: 9월11일~22일 (접수방법은 포스터 참고. 데이터셋 파일로 제공)
 * [경진대회 포스터.jpg](https://drive.google.com/file/d/1t2NfDOwhp93c-r5cZ_RO3GR6lkpRCYlg/)
 * [데이터 상세 설명서.hwp](https://drive.google.com/file/d/1cxdAIsQkzHRJlHguoLmGPymH2wldC7BW/)
+* [온라인 설명회(9/18 17:00)](https://snu-ac-kr.zoom.us/j/4705074464) 
 
 ### 9/4(월) - Syllabus
 * ___강의목표___ : 강의 계획을 소개하고 산업에서 인공지능 활용에 대하여 논의한다.
