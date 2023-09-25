@@ -3,6 +3,7 @@
 
 모든 문서는 경희대 이메일로 Google 로그인 해야 접근 가능합니다.
 모든 문서는 강의시간 전에 업데이트될 수 있습니다.
+* [강의메모 (Google Slide)](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
 * [Q&A 사이트 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/) 
 
 ### 2023 경기도자율주행센터 데이터활용 경진대회
@@ -15,7 +16,6 @@
 ### 9/4(월) - Syllabus
 * ___강의목표___ : 강의 계획을 소개하고 산업에서 인공지능 활용에 대하여 논의한다.
 * [강의계획서](https://sugang.khu.ac.kr/core?attribute=lectPlan&p_year=2023&p_term=20&p_teach=027799&p_code=IE32300&loginYn=N)
-* [강의메모](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
 
 ### 9/6(수) - Intro to AI
 * ___강의목표___ : 인공지능의 개념을 이해하고 발전 역사를 살펴본다.
