@@ -54,24 +54,25 @@
 * 별도의 강의자료는 없으며, w3schools 사이트를 참고하세요. [w3schools.com - Python](https://www.w3schools.com/python/)
 
 ### 10/2(월) - DNN[녹화]
-* ___강의목표___ : 딥러닝(Deep Learning)의 기본 모형인 Deep Neural Network(DNN)을 Tensorflow의 Keras로 구현하고 실행한다.
-
-### 10/4(수) - DNN
 * ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
 
-### 10/9(월) - BMI[한글날/녹화]
-* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
-
-### 10/11(수) - BMI
-* ___강의목표___ : Tensorflow의 Keras으로 구현한 DNN 코드와 함께 Deep learning의 다양한 Hyperparameter에 대하여 설명한다.
-
-### 10/16(월) - Iris 과제
-* ___강의목표___ : Tensorflow의 Keras으로 Iris를 구현하고 10/22(일)까지 e-campus로 제출하세요.
-* [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
-
-### 10/18(수) - SinCos [녹화]
+### 10/4(수) - SinCos
 * ___강의목표___ : Tensorflow의 Keras으로 SinCos 함수의 Regression 문제 구현을 설명한다.
 * [keras_DNN_SinCos.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_SinCos.ipynb)
+
+* ___Q&A___ : 이론 및 실습 질문 중에서 골라서 10/10(화)까지 하나 이상 질문을 올리시오.
+* ___Iris 과제___ : Tensorflow의 Keras으로 Iris를 구현하고 10/10(화)까지 e-campus로 제출하세요.
+* [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
+
+### 10/9(월) - [한글날/녹화]
+* ___강의목표___ : 
+
+### 10/11(수) - 
+* ___강의목표___ :
+* 
+### 10/16(월) - 
+
+### 10/18(수) - 
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 
 ### 10/23(월) - 중간고사 준비
