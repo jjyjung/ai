@@ -3,7 +3,7 @@
 
 모든 문서는 경희대 이메일로 Google 로그인 해야 접근 가능합니다.
 모든 문서는 강의시간 전에 업데이트될 수 있습니다.
-* [강의메모 (Google Slide)](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
+* [강의메모 Slide](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/)
 * [Q&A 사이트 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/) 
 
 ### 2023 경기도자율주행센터 데이터활용 경진대회
@@ -62,7 +62,10 @@
 
 * ___Q&A___ : 이론 및 실습 질문 중에서 골라서 10/10(화)까지 하나 이상 질문을 올리시오.
 * ___Iris 과제___ : Tensorflow의 Keras으로 Iris를 구현하고 10/10(화)까지 e-campus로 제출하세요.
-* [Iris DNN 실험 과제](https://docs.google.com/document/d/1gzNwMsitv_ZdNOSZOXZfQOQirzv5-awB) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
+* [Iris DNN 실험 과제](https://docs.google.com/document/d/1yOaX2L7bFO-uscJOfVlR0y7tbc7GMrxJ/) ([iris.csv](https://github.com/jjyjung/ai/blob/gh-pages/iris.csv))
+* ___SinCos 과제___ : Tensorflow의 Keras으로 작성된 SinCos 함수 fitting 실험을 수행하여 10/10(화)까지 e-campus로 제출하세요.
+* [SinCos DNN 실험 과제](https://docs.google.com/document/d/1YNmMmzf3R-JUks1UbHUUmdAXwLFR8MI2/) 
+* **[번외] SinCos 함수 피팅 1위 결정전** - RMSE가 가장 낮은 1위에게 추가 점수 10점 부여 예정 (방식: [강의메모 Slide](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/) 참고바람)
 
 ### 10/9(월) - [한글날/녹화]
 * ___강의목표___ : 
