@@ -65,29 +65,30 @@
 * ___SinCos 과제___ : Tensorflow의 Keras으로 작성된 SinCos 함수 fitting 실험을 수행하여 10/10(화)까지 e-campus로 제출하세요.[SinCos DNN 실험 과제](https://docs.google.com/document/d/1YNmMmzf3R-JUks1UbHUUmdAXwLFR8MI2/) 
 * **[번외] SinCos 함수 피팅 1위 결정전** - RMSE가 가장 낮은 1위에게 추가 점수 10점 부여 예정 (방식: [강의메모 Slide](https://docs.google.com/presentation/d/1tNjILRDSQuGJfYeJnILN-g1w-fOp-TLRaee5F0UhYik/) 참고바람)
 
-### 10/9(월) - [한글날/녹화]
-* ___강의목표___ : 
+### 10/9(월) - Optimizers [한글날/녹화]
+* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
 
-### 10/11(수) - 
-* ___강의목표___ :
-* 
-### 10/16(월) - 
-
-### 10/18(수) - 
+### 10/11(수) - 질의응답
+* ___강의목표___ : 이론 및 실습 전반에 대한 질의응답 시간입니다.
 * [Machine Learning 개요](https://drive.google.com/file/d/1-YLiLlSnlGjUxFGUhOxCY8RL0YltJY1_)
 
-### 10/23(월) - 중간고사 준비
- 
-### 10/25(수) - 중간고사 [날짜 변동 가능]
-* 시간: 15:00~16:00 (강의시간)
-* 장소: 공대 148호(강의실)
-
-### 10/30(월) - CNN
+### 10/16(월) - CNN
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * [Convolutional Neural Network (CNN)](https://drive.google.com/file/d/1fOBE-p97hZVEincnpKs_uwG3kqWNMbwP)
 
-### 11/1(수) - CNN [녹화]
+### 10/18(수) - CNN [녹화]
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
+
+### 10/23(월) - 중간고사 준비
+ 
+### 10/25(수) - 중간고사 [확정]
+* 시간: 15:00~16:00 (강의시간)
+* 장소: 공대 148호(강의실)
+
+### 10/30(월) - 
+
+### 11/1(수) - 
 
 ### 11/6(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
@@ -108,12 +109,9 @@
 * [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
 
-### 11/20(월) - Optimizers
-* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
-* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
+### 11/20(월) - 
 
-### 11/22(수) - Optimizers
-* ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
+### 11/22(수) -  
 
 ### 11/27(월) - 기말고사 [날짜 변동 가능]
 * [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
