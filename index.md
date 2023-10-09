@@ -67,7 +67,7 @@
 
 ### 10/9(월) - Optimizers [한글날/녹화]
 * ___강의목표___ : Deep Learning에서 사용되는 Optimizer들의 이론을 소개한다. 
-* [Optimizers](https://drive.google.com/file/d/16xzQoPHbPhWO77YK4eJ4_ASIJ7qhf6JO/)
+* [Optimizers](https://drive.google.com/file/d/1bxQNkdeNNWQqaJQDDBtV7AkTV9RsEyl4/view?usp=drive_link)
 
 ### 10/11(수) - 질의응답
 * ___강의목표___ : 이론 및 실습 전반에 대한 질의응답 시간입니다.
