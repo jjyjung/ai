@@ -77,7 +77,7 @@
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * [Convolutional Neural Network (CNN)](https://drive.google.com/file/d/1l5KfScBXeINhXDkfa-0ua9yszc409TpF/)
 
-### 10/18(수) - CNN [녹화]
+### 10/18(수) - CNN
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 
 ### 10/23(월) - 중간고사 질의응답
@@ -91,15 +91,14 @@
 * 시간: 15:00~16:00 (강의시간)
 * 장소: 공대 148호(강의실)
 
-### 10/30(월) - 
+### 10/30(월) - MNIST
+* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
+* [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
+* [MNIST CNN 실습 과제] : 11/??(?)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb를 e-campus에 제출.
 
 ### 11/1(수) - 
 
-### 11/6(월) - MNIST
-* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
-* [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
-* [MNIST CNN 실습 과제] : 11/14(화)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb)를 e-campus에 제출.
-
+### 11/6(월) - 
 ### 11/8(수) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
 * [RNN](https://drive.google.com/file/d/1ANJ4DigT1IVWU8_8wJPUg1k0Ijnj-Fs9/)
