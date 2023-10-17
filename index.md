@@ -82,7 +82,7 @@
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 
 ### 10/23(월) - 중간고사 질의응답
-* ___강의목표___ : 전반부 내용을 정리하고 관련 내용을 질의읃답 하겠습니다.
+* ___강의목표___ : 전반부 내용을 정리하고 관련 내용을 질의응답 하겠습니다.
 * 2021년은 비대면시험으로 시험 유형이 다름. 2021년만 정답 공개. 
 * [2021 mid-term](https://drive.google.com/file/d/1MuFcCIRfLxPdp1itknA2GrrC9JYK1tGI/),
   [2019 mid-term](https://drive.google.com/file/d/1OuzmzDHA9Zf9eYG3QBzu6REkdoQq5D1c/),
