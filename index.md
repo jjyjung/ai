@@ -77,7 +77,7 @@
 * ___강의목표___ : 합성곱 신경망(Convolutional Neural Network: CNN)의 개념에 대하여 설명한다.
 * [Convolutional Neural Network (CNN) - 오류수정!](https://drive.google.com/file/d/1l5KfScBXeINhXDkfa-0ua9yszc409TpF/)
 * [CNN 연산참고 Excel 파일](https://docs.google.com/spreadsheets/d/1nUU181TJVWDnsjkRjGFybBos8SHbuCW_/)
-* 
+
 ### 10/18(수) - CNN
 * ___강의목표___ : CNN의 대표적인 구조인 LeNet, AlexNet, VGGNet의 구조에 대하여 살펴본다.
 
