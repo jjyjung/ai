@@ -95,7 +95,9 @@
 ### 10/30(월) - MNIST
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 * [tf.keras_CNN_MNIST (slide)](https://drive.google.com/file/d/17g3bM625ifsOH4XkMa83Jb-RIi_7wdSu/)
-* [MNIST CNN 실습 과제] : 11/??(?)까지 tf_keras_DNN_MNIST.ipynb, tf_keras_CNN_MNIST.ipynb, tf_keras_CNN_MNIST_use.ipynb를 e-campus에 제출.
+* [tf_keras_DNN_MNIST.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_MNIST.ipynb),
+ [tf_keras_CNN_MNIST.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST.ipynb),
+ [tf_keras_CNN_MNIST_use.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST_use.ipynb)
 
 ### 11/1(수) - 
 
