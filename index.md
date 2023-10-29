@@ -99,29 +99,30 @@
  [tf_keras_CNN_MNIST.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST.ipynb),
  [tf_keras_CNN_MNIST_use.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST_use.ipynb)
 
-### 11/1(수) - 
+### 11/1(수) - MNIST & 프로젝트 소개
+* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
 
-### 11/6(월) - 
-### 11/8(수) - RNN
-* ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
-* [RNN](https://drive.google.com/file/d/1ANJ4DigT1IVWU8_8wJPUg1k0Ijnj-Fs9/)
-
-### 11/13(월) - CIFAR10 [녹화]
+### 11/6(월) - CIFAR10 [녹화]
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [tf_keras_CNN_CIFAR10.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CIFAR10.ipynb)
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 11/15(수) - IMDB
+### 11/8(수) - RNN
+* ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
+* [RNN](https://drive.google.com/file/d/1ANJ4DigT1IVWU8_8wJPUg1k0Ijnj-Fs9/)
+
+### 11/13(월) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
 * [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
+
+### 11/15(수) - 
 
 ### 11/20(월) - 
 
 ### 11/22(수) -  
 
-### 11/27(월) - 기말고사 [날짜 변동 가능]
-* [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
+### 11/27(월) - 
 
 ### 11/29(수) - CUB200
 * ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
@@ -143,13 +144,12 @@
 * 뇌파 분석을 위한 3D-CNN
 * 물류자동화를 위한 DenseUNet
 
-### 12/13(수) - 과제시청 및 질의응답
-* ___출석___ : 필수참석자는 결석시 과제점수 감점(참석 및 질의응답 대응 필요). 다른 학생들은 자율 출석.
-* ___강의목표___ : 해당학생의 Term Project 결과를 YouTube 영상 시청 및 질의응답 합니다.
+### 12/13(수) - 기말고사 [날짜 변동 가능]
+* [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
 
 ### 2023 Term Project
 * [Project Guide]()
-* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1fcJ3g4Dp3uG9l7F_CIVJfv0w_5PhaNtkQj4imXMcoXU/)
+* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)]()
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
