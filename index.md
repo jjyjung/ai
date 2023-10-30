@@ -98,7 +98,7 @@
 * [tf_keras_DNN_MNIST.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_DNN_MNIST.ipynb),
  [tf_keras_CNN_MNIST.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST.ipynb),
  [tf_keras_CNN_MNIST_use.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST_use.ipynb)
- [MNIST_use.zip (테스트용 데이터)](https://github.com/jjyjung/ai/blob/gh-pages/MNIST_use.zip)
+ * [MNIST_use.zip (테스트용 데이터)](https://github.com/jjyjung/ai/blob/gh-pages/MNIST_use.zip)
 
 ### 11/1(수) - MNIST & 프로젝트 소개
 * ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
