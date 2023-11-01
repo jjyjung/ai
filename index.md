@@ -100,22 +100,22 @@
  [tf_keras_CNN_MNIST_use.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_MNIST_use.ipynb)
  * [MNIST_use.zip (테스트용 데이터)](https://github.com/jjyjung/ai/blob/gh-pages/MNIST_use.zip)
 
-### 11/1(수) - MNIST & 프로젝트 소개
-* ___강의목표___ : 이미지 분류의 대표적 예제인 MNIST를 DNN 및 CNN의 Python 코드로 살펴본다. 
-
-### 11/6(월) - CIFAR10 [녹화]
+### 11/1(수) - CIFAR10
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [tf_keras_CNN_CIFAR10.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CIFAR10.ipynb)
-* [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
+* ___CIFAR 과제___ : Tensorflow의 Keras으로 CIFAR를 구현하고 11/5(d일)까지 e-campus로 제출하세요. [CIFAR CNN 실험 과제](https://docs.google.com/document/d/1QtRPdFvU3oG8VhJ2qTw9WNV5XLd7PxFs/)
+* **[번외] CIFAR 1위 결정전** - CIFAR 학습 모형의 이미지 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (CNN 모형 직접 수정 자유, ResNet 등 다른 모형 사용 불가)
 
-### 11/8(수) - RNN
+### 11/6(월) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
 * [RNN](https://drive.google.com/file/d/1ANJ4DigT1IVWU8_8wJPUg1k0Ijnj-Fs9/)
 
-### 11/13(월) - IMDB
+### 11/8(수) - IMDB
 * ___강의목표___ : RNN의 Classification 예제인 IMDB 문제를 살펴본다. 
 * [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
+
+### 11/13(월) - 
 
 ### 11/15(수) - 
 
