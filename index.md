@@ -103,8 +103,8 @@
 ### 11/1(수) - CIFAR10
 * ___강의목표___ : 이미지 분류의 예제인 CIFAR10 및 CUB200을 CNN의 Python 코드로 살펴본다. 
 * [tf_keras_CNN_CIFAR10.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CIFAR10.ipynb)
-* ___CIFAR 과제___ : Tensorflow의 Keras으로 CIFAR를 구현하고 11/5(d일)까지 e-campus로 제출하세요. [CIFAR CNN 실험 과제](https://docs.google.com/document/d/1QtRPdFvU3oG8VhJ2qTw9WNV5XLd7PxFs/)
-* **[번외] CIFAR 1위 결정전** - CIFAR 학습 모형의 이미지 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (CNN 모형 직접 수정 자유, ResNet 등 다른 모형 사용 불가)
+* ___CIFAR 과제___ : Tensorflow의 Keras으로 CIFAR를 구현하고 11/5(일)까지 e-campus로 제출하세요. [CIFAR CNN 실험 과제](https://docs.google.com/document/d/1QtRPdFvU3oG8VhJ2qTw9WNV5XLd7PxFs/)
+* **[번외] CIFAR 1위 결정전** - CIFAR 학습 모형의 이미지 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (CNN 모형의 구조 및 각종 하이퍼파라미터를 직접 수정 가능, ResNet 등 다른 모형 사용은 불가)
 
 ### 11/6(월) - RNN
 * ___강의목표___ : 순환신경망(Recurrent Neural Network: RNN)의 개념과 LSTM/GRU에 대하여 살펴본다. 
