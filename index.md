@@ -119,6 +119,7 @@
 
 ### 11/13(월) - Text Generation
 * ___강의목표___ : RNN을 이용한 Text Generation 예제 코드를 살펴본다. 
+* [RNN_TextGen (slide)](https://drive.google.com/file/d/1QgvDqs8DeHBuMgOIB0t1eooK6fzyoi2L/)
 * [tf_keras_RNN_Gildong.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Gildong.ipynb)
 , [Gildong.txt](https://github.com/jjyjung/ai/blob/gh-pages/Gildong.txt)
 * [tf_keras_RNN_Nietzsche.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Nietzsche.ipynb)
