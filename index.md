@@ -117,7 +117,12 @@
 * ___IMDB 과제___ : Tensorflow의 Keras으로 IMDB 감성분류를 구현하고 11/12(일)까지 e-campus로 제출하세요. [IMDB RNN 실험 과제](https://docs.google.com/document/d/1R7-xTGdNKVqhITGTxa2QgPew6T-h5ALB/)
 * [번외] IMDB 1위 결정전** - IMDB 학습 모형의 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (RNN 모형의 구조 및 각종 하이퍼파라미터를 직접 수정 가능, Transformer 등 다른 모형 사용은 불가)
 
-### 11/13(월) - 
+### 11/13(월) - Text Generation
+* ___강의목표___ : RNN을 이용한 Text Generation 예제 코드를 살펴본다. 
+* [tf_keras_RNN_Gildong.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Gildong.ipynb)
+, [Gildong.txt](https://github.com/jjyjung/ai/blob/gh-pages/Gildong.txt)
+* [tf_keras_RNN_Nietzsche.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Nietzsche.ipynb)
+, [nietzsche.txt](https://github.com/jjyjung/ai/blob/gh-pages/nietzsche.txt)
 
 ### 11/15(수) - 
 
@@ -132,10 +137,7 @@
 * [tf_keras_CNN_CUB200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CUB200.ipynb)
 * [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
-### 12/4(월) - Text Generation
-* ___강의목표___ : RNN의 Text Generation 예제 코드를 살펴본다. 
-* [tf_keras_RNN_Gildong.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Gildong.ipynb)
-* [Gildong.txt](https://github.com/jjyjung/ai/blob/gh-pages/Gildong.txt)
+### 12/4(월) - 
 
 ### 12/6(수) - 산업인공지능
 * ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 소개한다.(중기부 KAMP)
