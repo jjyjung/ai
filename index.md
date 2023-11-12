@@ -115,7 +115,7 @@
 * [RNN_IMDB (slide)](https://drive.google.com/file/d/1X7IEV8FX28o_nsUDJw_unzfWazQdeZ8x/)
 * [tf_keras_RNN_IMDB.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_IMDB.ipynb)
 * ___IMDB 과제___ : Tensorflow의 Keras으로 IMDB 감성분류를 구현하고 11/12(일)까지 e-campus로 제출하세요. [IMDB RNN 실험 과제](https://docs.google.com/document/d/1R7-xTGdNKVqhITGTxa2QgPew6T-h5ALB/)
-* [번외] CIFAR 1위 결정전** - IMDB 학습 모형의 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (RNN 모형의 구조 및 각종 하이퍼파라미터를 직접 수정 가능, Transformer 등 다른 모형 사용은 불가)
+* [번외] IMDB 1위 결정전** - IMDB 학습 모형의 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (RNN 모형의 구조 및 각종 하이퍼파라미터를 직접 수정 가능, Transformer 등 다른 모형 사용은 불가)
 
 ### 11/13(월) - 
 
