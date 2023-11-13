@@ -125,7 +125,14 @@
 * [tf_keras_RNN_Nietzsche.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_RNN_Nietzsche.ipynb)
 , [nietzsche.txt](https://github.com/jjyjung/ai/blob/gh-pages/nietzsche.txt)
 
-### 11/15(수) - 
+### 2023 Term Project
+* [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/)
+* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)]()
+
+### 11/15(수) - 전이학습, CUB200
+* ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
+* [tf_keras_CNN_CUB200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CUB200.ipynb)
+* [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
 
 ### 11/20(월) - 
 
@@ -133,10 +140,7 @@
 
 ### 11/27(월) - 
 
-### 11/29(수) - CUB200
-* ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
-* [tf_keras_CNN_CUB200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CUB200.ipynb)
-* [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
+### 11/29(수) - 
 
 ### 12/4(월) - 
 
@@ -152,10 +156,6 @@
 
 ### 12/13(수) - 기말고사 [날짜 변동 가능]
 * [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
-
-### 2023 Term Project
-* [Project Guide]()
-* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)]()
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
