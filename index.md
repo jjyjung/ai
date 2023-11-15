@@ -132,7 +132,7 @@
 ### 11/15(수) - 전이학습, CUB200
 * ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
 * [tf_keras_CNN_CUB200.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/tf_keras_CNN_CUB200.ipynb)
-* [CUB200.zip](https://drive.google.com/file/d/1_snGJ0s4AkhV2YQqPlcQcClyGyAn_m7B/)
+* [CUB200.zip](https://drive.google.com/file/d/1d9iiqgV4PQ7juN3cmybgZ9pc-JqlmS1_/)
 * ___CUB20 과제___ : Tensorflow의 Keras으로 CUB200을 구현하고 11/19(일)까지 e-campus로 제출하세요. [CUB CNN 실험 과제]()
 * * **[번외] CUB20 1위 결정전** - CUB 20개 모형의 이미지 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (ResNet50을 전이학습하되 모형의 구조 및 각종 하이퍼파라미터를 모두 수정 가능)
 
