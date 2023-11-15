@@ -126,7 +126,7 @@
 , [nietzsche.txt](https://github.com/jjyjung/ai/blob/gh-pages/nietzsche.txt)
 
 ### 2023 Term Project
-* [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/)
+* [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/) [KAMP Datasets](https://www.kamp-ai.kr/aidataList)
 * [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)]()
 
 ### 11/15(수) - 전이학습, CUB200
