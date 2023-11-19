@@ -127,7 +127,7 @@
 
 ### 2023 Term Project
 * [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/) ([KAMP Datasets](https://www.kamp-ai.kr/aidataList))
-* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)]()
+* [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/) <- OPEN
 
 ### 11/15(수) - 전이학습, CUB200
 * ___강의목표___ : ResNet50을 전이학습(Transfer Learning)하여 이미지 분류 예제인 CUB200을 분류해본다. 
