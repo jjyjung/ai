@@ -136,7 +136,11 @@
 * ___CUB20 과제___ : Tensorflow의 Keras으로 CUB200을 구현하고 11/19(일)까지 e-campus로 제출하세요. [CUB CNN 실험 과제](https://docs.google.com/document/d/12AddEiz35Q-v_8JCMMld9y7JcD5pbI87/)
 * **[번외] CUB20 1위 결정전** - CUB 20개 모형의 이미지 분류 정확도가 가장 높은 1위에게 추가 점수 10점 부여 예정 (ResNet50을 전이학습하되 모형의 구조 및 각종 하이퍼파라미터를 모두 수정 가능)
 
-### 11/20(월) - 
+### 11/20(월) - 산업인공지능
+* ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 소개한다.(중기부 KAMP)
+* [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
+* [torch_rotor_dignostics.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/torch_rotor_dignostics.ipynb)
+* [14. Dataset_Rotor.zip](https://drive.google.com/file/d/1DUrBvzeSM7RHCse5KxqvbsnJV0u7bJAB/)
 
 ### 11/22(수) -  
 
@@ -146,10 +150,7 @@
 
 ### 12/4(월) - 
 
-### 12/6(수) - 산업인공지능
-* ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 소개한다.(중기부 KAMP)
-* [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
-* [torch_rotor_dignostics.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/torch_rotor_dignostics.ipynb)
+### 12/6(수) - 
 
 ### 12/11(월) - 산업인공지능
 * ___강의목표___ : 산업경영공학에서 딥러닝 프로젝트를 소개한다.(KHU IAI Lab.)
