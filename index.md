@@ -160,7 +160,7 @@
 * 뇌파 분석을 위한 3D-CNN
 * 물류자동화를 위한 DenseUNet
 
-### 12/13(수) - 기말고사 [날짜 변동 가능]
+### 12/13(수) - 기말고사 [확정]
 * [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
 
 ### Supplementary Materials
