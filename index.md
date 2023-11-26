@@ -140,7 +140,7 @@
 * ___강의목표___ : 스마트제조를 위한 딥러닝 예제를 살펴본다.(중기부 KAMP)
 * [회전기기 이상진단 AI 기법(DNN, CNN, RNN)](https://drive.google.com/file/d/1q01HGwGrLHKLNPgM1tc0KGRdDH9epWPq/)
 * [torch_rotor_dignostics.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/torch_rotor_dignostics.ipynb)
-* [14. Dataset_Rotor.zip](https://drive.google.com/file/d/1DUrBvzeSM7RHCse5KxqvbsnJV0u7bJAB/)
+* [rotor.zip](https://github.com/jjyjung/ai/blob/gh-pages/rotor.zip)
 
 ### 11/22(수) - 스마트제조 고장진단
 * ___강의목표___ : 스마트제조에서 생산공정 데이터 수집 및 센서에 대하여 소개한다.
