@@ -148,6 +148,7 @@
 
 ### 11/27(월) - 회전기기 고장진단 [녹화]
 * ___강의목표___ : 스마트제조를 위한 머신러닝 예제를 살펴본다.
+* [회전기기 이상진단 ML 기법(DT, SVM, RF)](https://github.com/jjyjung/ai/blob/gh-pages/%ED%9A%8C%EC%A0%84%EA%B8%B0%EA%B3%84_%EA%B3%A0%EC%9E%A5%EC%A7%84%EB%8B%A8_%EC%8B%A4%EC%8A%B5_v5.ipynb)
 
 ### 11/29(수) - 
 
