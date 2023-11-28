@@ -155,9 +155,10 @@
 ### 2023 Term Project
 * [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/) ([KAMP Datasets](https://www.kamp-ai.kr/aidataList))
 * [Term Project 제목 및 YouTube 링크 제출 (경희대 로그인 필수)](https://docs.google.com/spreadsheets/d/1ZgntcnrjZcXt_Aowq_EC8fvOW9kOTKM3G-2M6aJoD5s/)
-* 11/20(월) 23:59까지 3인1조 및 dataset 제안 🡺 Google Spreadsheet
- * 11/26(일) 23:59까지 “중간보고서 PPT(10장 내외)”를 제출
-** 12/3(일): 23:59까지 “최종보고서 PPT(20장 내외), 데이터, 프로그램” 제출🡺e-campus
+* 일정
+- 11/20(월) 23:59까지 3인1조 및 dataset 제안 🡺 Google Spreadsheet
+- 11/26(일) 23:59까지 “중간보고서 PPT(10장 내외)”를 제출
+* 12/3(일): 23:59까지 “최종보고서 PPT(20장 내외), 데이터, 프로그램” 제출
 * 12/5(화): 23:59까지 “최종결과설명 YouTube” 업로드(5분짜리) 🡺 Google Spreadsheet
 * 12/6(월), 12/11(수): 최종보고서 일부 팀 시연(YouTube)
 * 12/13(수): 기말고사
