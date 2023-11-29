@@ -146,8 +146,11 @@
 * ___강의목표___ : 스마트제조를 위한 머신러닝 예제를 살펴본다.
 * [회전기기 이상진단 ML 기법(DT, SVM, RF)](https://github.com/jjyjung/ai/blob/gh-pages/%ED%9A%8C%EC%A0%84%EA%B8%B0%EA%B3%84_%EA%B3%A0%EC%9E%A5%EC%A7%84%EB%8B%A8_%EC%8B%A4%EC%8A%B5_v5.ipynb)
 
-### 11/29(수) - 
-
+### 11/29(수) - DAE
+* ___강의목표___ : 오토인코더(Deep AutoEncoder: DAE)의 개념과 종류에 대하여 알아보고, 산업인공지능에 적용된 오토인코더의 Keras 예제를 살펴본다. 
+* [DAE](https://drive.google.com/file/d/1zGrM9itkYJYGQuSWN2e7SBvJYrkurZnt/)
+* [05_weld_keras.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/05_weld_keras.ipynb)
+* 
 ### 12/4(월) - 
 
 ### 12/6(수) - 
