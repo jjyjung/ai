@@ -148,9 +148,9 @@
 
 ### 11/29(수) - DAE
 * ___강의목표___ : 오토인코더(Deep AutoEncoder: DAE)의 개념과 종류에 대하여 알아보고, 산업인공지능에 적용된 오토인코더의 Keras 예제를 살펴본다. 
-* [DAE](https://drive.google.com/file/d/1zGrM9itkYJYGQuSWN2e7SBvJYrkurZnt/)
+* [Deep AutoEncoder (DAE)](https://drive.google.com/file/d/1zGrM9itkYJYGQuSWN2e7SBvJYrkurZnt/)
 * [05_weld_keras.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/05_weld_keras.ipynb)
-* 
+
 ### 12/4(월) - 
 
 ### 12/6(수) - 
