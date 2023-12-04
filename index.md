@@ -151,12 +151,13 @@
 * [Deep AutoEncoder (DAE)](https://drive.google.com/file/d/1zGrM9itkYJYGQuSWN2e7SBvJYrkurZnt/)
 * [05_weld_keras.ipynb](https://github.com/jjyjung/ai/blob/gh-pages/05_weld_keras.ipynb)
 
-### 12/4(월) - Object Detection (YOLO)
-* ___강의목표___ : 이미지 처리를 위한 딥러닝 주제를 살펴보고 YOLO 코드를 살펴본다.
-* [Object Detection](https://drive.google.com/file/d/1p3dc3JkXZJc6UDLQqZGc5xNfZbgS5HR3/)
-* [X-ray 검사장비 AI 데이터셋](https://www.kamp-ai.kr/aidataDetail?DATASET_SEQ=12)
+### 12/4(월) - Object Detection
+* ___강의목표___ : 이미지 처리를 위한 딥러닝 주제와 평가 지표를 살펴본다.
+* [Object Detection](https://drive.google.com/file/d/1ghRRLDQb8d548Sh21vkBqWCz6iV1T2iF/)
 
-### 12/6(수) - 
+### 12/6(수) - YOLO
+* ___강의목표___ : 이미지 객체 탐지에 사용되는 YOLO 코드를 살펴본다.
+* [X-ray 검사장비 AI 데이터셋](https://www.kamp-ai.kr/aidataDetail?DATASET_SEQ=12)
 
 ### 2023 Term Project
 * [Project Guide](https://docs.google.com/document/d/1oBUlJlBhvEZUn-Plhnn_dtAEwPa-LU2M/) ([KAMP Datasets](https://www.kamp-ai.kr/aidataList))
