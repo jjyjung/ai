@@ -174,7 +174,9 @@
 * 물류자동화를 위한 DenseUNet
 
 ### 12/13(수) - 기말고사 [확정]
-* [과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
+* [___중간고사 성적확인___](http://163.180.125.245/ai/), (비밀번호는 e-campus의 2주차 'PC에 Jupyter Notebook 설치' 과제에 답변한 두 자리 숫자입니다.) 
+* [2022기말고사](https://drive.google.com/file/d/1BBUYB_5aCEZyWhy1kFWJmUP6iT3l0R3h/)
+[과거 기말고사(2021,2019,2018,2017)](https://drive.google.com/file/d/1d_113YMKpmlPvGMzXHwojYZRT0mANwT5/)
 
 ### Supplementary Materials
 * [w3schools.com - Python](https://www.w3schools.com/python/)
